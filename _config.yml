@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: 
 
-url: https://mengjia-zhou.github.io/
+url: https://monicanovx.github.io/
 
 permalink: /:title/
 
@@ -36,8 +36,8 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: https://www.linkedin.com/in/mengjia9/
-github: https://github.com/MonicaNovX
+linkedin: mengjia9
+github: MonicaNovX
 email: mengjia9@illinois.edu
 
 # authors:
